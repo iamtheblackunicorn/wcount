@@ -2,6 +2,8 @@
 
 ***Count words from the command line. :scroll:***
 
+![GitHub CI](https://github.com/iamtheblackunicorn/wcount/actions/workflows/rust.yml/badge.svg)
+
 ## About :books:
 
 I write a lot and sometimes I'm too lazy to paste stuff into Word. For this purpose I thought that I'd write a small little tool to count words in a specified document for me.
@@ -32,3 +34,6 @@ $ wcount my_file.txt
 - Upload to GitHub.
 
 ## NOTE :scroll:
+
+- *WCOUNT :scroll:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- Licensed under the MIT license.
